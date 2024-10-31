@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Eu atualmente estou estudando Java SpringBoot e ReactJs, também começando a aprender php</p>
+<p align="left">📚 Eu atualmente estou estudando Java SpringBoot e ReactJs</p>
 
 ###
 
@@ -31,9 +31,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
 ###
