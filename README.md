@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante do 2º Periodo de Analise e Desenvolvimento de Sistemas, Buscando aprimorar minhas habilidades como desenvolvedor</p>
+<p align="left">Estudante do 3º Periodo de Analise e Desenvolvimento de Sistemas, Buscando aprimorar minhas habilidades como desenvolvedor</p>
 
 ###
 
